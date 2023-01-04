@@ -1,10 +1,6 @@
 # discord-trolling
 An ecosystem of tools and libraries to simplify the Discord API
 
-# the people involved 💕
-- [ferretcode](https://github.com/ferretcode) the main developer of discord-trolling
-- [doisoundlikeababy](https://github.com/doisoundlikeababy) a new developer excited to help out
-
 ## the tools we make
 - [discord-trolling](https://github.com/discord-trolling/discord-trolling) a library for making discord bots easy
 - [discord-trolling-cli](https://github.com/discord-trolling/discord-trolling-cli) the CLI for interacting with your bots & plugins
