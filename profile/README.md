@@ -1,5 +1,5 @@
-# discord-trolling
-An ecosystem of tools and libraries to simplify the Discord API
+# discord-trolling (deprecated)
+An ecosystem of tools and libraries to simplify the Discord API. Deprecated in favor of https://github.com/ferretcode/goated
 
 ## the tools we make
 - [discord-trolling](https://github.com/discord-trolling/discord-trolling) a library for making discord bots easy
