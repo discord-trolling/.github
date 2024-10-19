@@ -4,7 +4,6 @@ An ecosystem of tools and libraries to simplify the Discord API. Deprecated in f
 ## the tools we make
 - [discord-trolling](https://github.com/discord-trolling/discord-trolling) a library for making discord bots easy
 - [discord-trolling-cli](https://github.com/discord-trolling/discord-trolling-cli) the CLI for interacting with your bots & plugins
-- [troll](https://github.com/discord-trolling/troll) a file format with JSON syntax for configuring your bots & commands
 - [create-discord-trolling-app](https://github.com/discord-trolling/create-discord-trolling-app) a CLI tool for easily generating projects using templates
 - [discord-trolling-plugins](https://github.com/discord-trolling/plugins) a repository containing plugins to extend discord-trolling
 
